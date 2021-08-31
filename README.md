@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielafreitas24
 - 👀 Adoro ler!
-- Atualmente estou aprendendo java.                                                                  
-- - 💞️ Gostaria muito de aprender a programar.       
+- Atualmente estou aprendendo java
+- Gosto muito de tatuagens e de danças.                                                                  
 - 📫 Você pode me encontrar no instagram @danielafreitasv                                                                           
    
 <!---
